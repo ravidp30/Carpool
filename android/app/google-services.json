@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278856024393",
+    "project_id": "carpool-a377d",
+    "storage_bucket": "carpool-a377d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278856024393:android:ad6dbf3e47c8649e8bda98",
+        "android_client_info": {
+          "package_name": "com.rideshare.carpool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4kqcMPp9AbZovblJbmVAW_cTg54x1oUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
